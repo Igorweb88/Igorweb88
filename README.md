@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi! I'm Igor Dmitriev  
+**Junior QA Engineer | Web & API Testing | Postman, Jira, SQL**  
+Here I share web and mobile testing portfolio items developed through courses and personal projects. You are welcome to check out my resume.
 
-<!--
-**Igorweb88/Igorweb88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Manual testing (Web & Mobile)  
+- ✅ API testing (Postman, Swagger, JSON)  
+- ✅ Test case & checklist creation  
+- ✅ Bug reporting (Jira, Qase)  
+- ⚪ SQL (Basic)  
+- ✅ Chrome DevTools, client-server architecture  
+
+---
+
+## 📂 Projects
+*Links to my learning projects and portfolio will appear here soon.*
+
+---
+
+## 📫 Contacts
+[![Gmail](https://img.shields.io/badge/Email-✉️-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrievworkspace@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-📩-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Igor_D55)  
+
+---
+
+## ⚡ About Me
+Detail-oriented, results-driven, eager to grow in QA.  
+Hobbies: travelling, history, gym.
