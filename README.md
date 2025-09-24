@@ -21,8 +21,8 @@ Here I share web and mobile testing portfolio items developed through courses an
 ---
 
 ## 📫 Contacts
-[![Gmail](https://img.shields.io/badge/Email-✉️-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrievworkspace@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-📩-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Igor_D55)  
+[![Email](https://img.shields.io/badge/Email-dmitrievworkspace@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:dmitrievworkspace@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Igor_D55-1da1f2?style=flat&logo=telegram&logoColor=white)](https://t.me/Igor_D55)  
 
 ---
 
