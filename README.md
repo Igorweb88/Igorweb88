@@ -16,13 +16,13 @@ Here I share web and mobile testing portfolio items developed through courses an
 ---
 
 ## 📂 Projects
-*Links to my learning projects and portfolio will appear here soon.*
+- [API Testing](https://github.com/Igorweb88/API-testing) – REST and SOAP via Postman  
 
 ---
 
 ## 📫 Contacts
-[![Email](https://img.shields.io/badge/Email-dmitrievworkspace@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:dmitrievworkspace@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@Igor_D55-1da1f2?style=flat&logo=telegram&logoColor=white)](https://t.me/Igor_D55)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30"/>](mailto:dmitrievworkspace@gmail.com)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30"/>](https://t.me/Igor_D55)  
 
 ---
 
