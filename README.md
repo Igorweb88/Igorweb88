@@ -23,8 +23,7 @@ Here I share web and mobile testing portfolio items developed through courses an
 ---
 
 ## 📫 Contacts
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30"/>](mailto:dmitrievworkspace@gmail.com)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30"/>](https://t.me/Igor_D55)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30"/>](mailto:dmitrievworkspace@gmail.com)      [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30"/>](https://t.me/Igor_D55)  
 
 ---
 
