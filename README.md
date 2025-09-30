@@ -16,7 +16,9 @@ Here I share web and mobile testing portfolio items developed through courses an
 ---
 
 ## 📂 Projects
-- [API Testing](https://github.com/Igorweb88/API-testing) – REST and SOAP via Postman  
+
+- [API Testing](https://github.com/Igorweb88/API-testing) – REST and SOAP testing via Postman  
+- [Web Testing](https://github.com/Igorweb88/WebTesting) – Functional testing of web applications
 
 ---
 
