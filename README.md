@@ -10,8 +10,9 @@ Here I share web and mobile testing portfolio items developed through courses an
 - ✅ API testing (Postman, Swagger, JSON)  
 - ✅ Test case & checklist creation  
 - ✅ Bug reporting (Jira, Qase)  
-- ⚪ SQL (Basic)  
+- ⚪ SQL 
 - ✅ Chrome DevTools, client-server architecture  
+- ✅ Charles Proxy
 
 ---
 
@@ -29,4 +30,4 @@ Here I share web and mobile testing portfolio items developed through courses an
 
 ## ⚡ About Me
 Detail-oriented, results-driven, eager to grow in QA.  
-Hobbies: travelling, history, gym.
+Hobbies: Investing, Fitness, Exploring digital products.
