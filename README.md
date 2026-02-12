@@ -28,6 +28,7 @@ Here I share web and mobile testing portfolio items developed through courses an
 
 ---
 
-## ⚡ About Me
-Detail-oriented, results-driven, eager to grow in QA.  
-Hobbies: Investing, Fitness, Exploring digital products.
+## ⚡ About me
+Detail-oriented QA enthusiast, eager to grow and contribute to high-quality software development.
+
+Hobbies: Investing, Exploring digital products, Learning new technologies.
